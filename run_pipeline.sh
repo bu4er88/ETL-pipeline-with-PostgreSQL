@@ -1,4 +1,4 @@
 #!bin/bash/
 
-python ./src/create_tables.py
-python ./src/etl.py
+python create_tables.py
+python src/etl.py
